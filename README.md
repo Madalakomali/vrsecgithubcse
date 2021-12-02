@@ -20,3 +20,11 @@
    3.Car
 
 ![flowers](https://media.timeout.com/images/105740222/750/422/image.jpg)
+
+Name|Emojis
+----|----
+Komali| 🥰
+Varsha| 🥫🥘🍥🥞🐽🐵
+Harshi| 🐃🐱🐊
+Likhitha| 🦄🐖
+Yasaswini| 🐶🦀
