@@ -1,6 +1,6 @@
- #komali
- ##Honey
- ###puppy
+ # komali
+ ## Honey
+ ### puppy
  
  **this is bold text**
  
@@ -9,15 +9,15 @@
  >text that is not a quote
 
 *Fruits
- *Apple
- *Banana
- *Cherry
- *Dragon fruit
+ * Apple
+ * Banana
+ * Cherry
+ * Dragon fruit
  
 1. Vehicles
-   1.Areoplane
-   2.Bus
-   3.Car
+   1. Areoplane
+   2. Bus
+   3. Car
 
 ![flowers](https://media.timeout.com/images/105740222/750/422/image.jpg)
 
